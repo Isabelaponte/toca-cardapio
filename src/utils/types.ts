@@ -19,6 +19,7 @@ export interface IGrupos {
 export interface ISubgrupos {
     id: string;
     name: string;
+    description?: string;
 }
 
 export interface IComplements {

@@ -7,7 +7,7 @@ export const grupos: IGrupos[] = [
         subgrupos: [
             {
                 id: "141",
-                name: "Bebidas Quentes",
+                name: "Bebidas",
             },
             {
                 id: "142",
@@ -269,6 +269,7 @@ export const grupos: IGrupos[] = [
             {
                 id: "32",
                 name: "Natural (Fruta)",
+                description: "Consultar sabores disponíveis",
             },
             {
                 id: "31",
